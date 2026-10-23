@@ -4,7 +4,7 @@ Notebook: [`Week9_Dictionaries_and_Sets_Homework.ipynb`](Week9_Dictionaries_and_
 
 This homework practices everything from the Week 9 in-class notebook: dictionaries, sets and pickling. Each problem is a small business task, like a ski shop's prices, a coffee shop receipt, a mailing list or two stores' inventories.
 
-**Total: 100 points + 3 bonus**
+**Total: 10 points + 3 bonus**
 
 ---
 
