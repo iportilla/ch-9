@@ -1,0 +1,10 @@
+# Instructor-only files
+*AnswerKey*
+*.pptx
+Chapter_09_In_Class*.ipynb
+
+# Files created by running the notebooks
+*.dat
+
+.DS_Store
+.ipynb_checkpoints/
